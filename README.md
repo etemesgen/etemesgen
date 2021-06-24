@@ -25,8 +25,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse&logoColor=FFA518)&nbsp;
 
-![etemesgen github stats](https://github-readme-stats.vercel.app/api?username=etemesgen)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etemesgen)](https://github.com/etemesgen/github-readme-stats)
+![etemesgen github stats](https://github-readme-stats.vercel.app/api?username=etemesgen&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etemesgen&show_icons=true&theme=dark)](https://github.com/etemesgen/github-readme-stats)
 
 ### 📫 &nbsp; How to reach me:
 

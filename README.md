@@ -6,7 +6,7 @@
 
 ### 👨🏽‍💻 &nbsp;About Me
 
-🎓 &nbsp; I'm a Bachelor student on software engineering, currently at CESI Ecole Supérieur de l'Alternance and on apprenticeship with (https://www.x-pans.com/).\
+🎓 &nbsp; I'm a Bachelor student on software engineering, currently at CESI Ecole Supérieur de l'Alternance and on apprenticeship with Xpans.\
 ✍️ &nbsp;In my free time, I play football, video games, discover new technologies, read books and workout.\
 💬 &nbsp;Feel free to reach out to me!\
 ✉️ &nbsp;You can email me at temesgen.edomiyas@yahoo.com. I'll try to respond as soon as possible!\

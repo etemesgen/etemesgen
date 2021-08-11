@@ -1,6 +1,6 @@
 ![BannerGIF](https://media.giphy.com/media/nxY5RLdTKPAJqYN8L9/giphy.gif)
 
-### <img alt="emoji" src="https://i.ibb.co/j8qKX3T/IMG-6934-adobespark.png" width='100'> Hello there !
+### <img alt="emoji" src="https://i.ibb.co/QjWWXWL/IMG-6934-adobespark.png" width='100'> Hello there !
 
 ![version :11.08.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 

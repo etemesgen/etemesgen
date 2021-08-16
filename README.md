@@ -37,7 +37,6 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=AdobeXD&logoColor=FF61F6)&nbsp;
 
 ![etemesgen github stats](https://github-readme-stats.vercel.app/api?username=etemesgen&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etemesgen&show_icons=true&theme=dark)](https://github.com/etemesgen/github-readme-stats)
 
 [![Edomiyas's github activity graph](https://activity-graph.herokuapp.com/graph?username=etemesgen&theme=react-dark)](https://github.com/etemesgen/github-readme-activity-graph)
 

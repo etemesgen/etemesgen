@@ -35,6 +35,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma&logoColor=#C4C4C4)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=AdobeXD&logoColor=FF61F6)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=#C4C4C4)&nbsp;
 
 ![etemesgen github stats](https://github-readme-stats.vercel.app/api?username=etemesgen&show_icons=true&theme=dark)
 

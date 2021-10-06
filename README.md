@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time, I play football, video games, discover new technologies, read books and workout.\
 💬 &nbsp;Feel free to reach out to me!\
 ✉️ &nbsp;You can email me at temesgen.edomiyas@yahoo.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Portfolio](https://edomiyas-temesgen.netlify.app/) for more details about me and my experience, new portfolio coming soon.
+📄 &nbsp;You can check my [Portfolio](https://edocode.netlify.app/) for more details about me and my experience, new portfolio coming soon.
 
 ### 🛠 &nbsp;Tech Stack
 

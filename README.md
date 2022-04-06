@@ -21,7 +21,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=1572B6)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=#26ed5b)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=4B8BBE)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=234FC08D)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS&logoColor=234FC08D)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=234FC08D)&nbsp;
@@ -36,7 +35,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma&logoColor=#C4C4C4)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=AdobeXD&logoColor=FF61F6)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=#C4C4C4)&nbsp;
 
 ![etemesgen github stats](https://github-readme-stats.vercel.app/api?username=etemesgen&show_icons=true&theme=dark)

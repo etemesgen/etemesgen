@@ -21,12 +21,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=234FC08D)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=8d68bd)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=1572B6)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=#26ed5b)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=234FC08D)&nbsp;
-![React Native](https://img.shields.io/badge/-ionic-05122A?style=flat&logo=ionic)&nbsp;
-![Ionic](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react&logoColor=2361DAFB)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=1572B6)&nbsp;
+![PostrgeSQL](https://img.shields.io/badge/-postgresql-05122A?style=flat&logo=postgresql)&nbsp;
+![React_Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react&logoColor=2361DAFB)&nbsp;
+![Ionic](https://img.shields.io/badge/-ionic-05122A?style=flat&logo=ionic)&nbsp;
 
 ### ⚙️ &nbsp;Version control and Tools
 

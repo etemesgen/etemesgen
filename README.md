@@ -2,7 +2,7 @@
 
 ### <img alt="emoji" src="https://i.ibb.co/QjWWXWL/IMG-6934-adobespark.png" width='100'> Hello there !
 
-![version :11.08.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
+![version :24.07.2022](https://img.shields.io/badge/version-24.07.2022-informational) &nbsp;
 
 ### 👨🏽‍💻 &nbsp;About Me
 
@@ -12,31 +12,22 @@
 ✉️ &nbsp;You can email me at temesgen.edomiyas@yahoo.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Portfolio](https://edocode.netlify.app/) for more details about me and my experience, new portfolio coming soon.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Preferred / Personal Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS&logoColor=234FC08D)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=234FC08D)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=8d68bd)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=#26ed5b)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=234FC08D)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=1572B6)&nbsp;
 ![PostrgeSQL](https://img.shields.io/badge/-postgresql-05122A?style=flat&logo=postgresql)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=234FC08D)&nbsp;
 ![React_Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react&logoColor=2361DAFB)&nbsp;
-![Ionic](https://img.shields.io/badge/-ionic-05122A?style=flat&logo=ionic)&nbsp;
 
 ### ⚙️ &nbsp;Version control and Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse&logoColor=FFA518)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma&logoColor=#C4C4C4)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=#C4C4C4)&nbsp;
 

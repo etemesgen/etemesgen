@@ -8,12 +8,14 @@
 ### 🛠 &nbsp;Personal Tech Stack
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=234FC08D)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=Nuxt.js&logoColor=00DC82)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=234FC08D)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=2361DAFB)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=234FC08D)&nbsp;
 ![PostrgeSQL](https://img.shields.io/badge/-postgresql-05122A?style=flat&logo=postgresql)&nbsp;
 ![React_Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react&logoColor=2361DAFB)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=2361DAFB)&nbsp;
 
 ### ⚙️ &nbsp;Tools
 

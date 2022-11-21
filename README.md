@@ -15,6 +15,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=234FC08D)&nbsp;
 ![PostrgeSQL](https://img.shields.io/badge/-postgresql-05122A?style=flat&logo=postgresql)&nbsp;
 ![React_Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react&logoColor=2361DAFB)&nbsp;
+![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic&logoColor=2361DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=2361DAFB)&nbsp;
 
 ### ⚙️ &nbsp;Tools

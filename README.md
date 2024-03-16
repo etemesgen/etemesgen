@@ -2,8 +2,7 @@
 
 ### 👨🏽‍💻 &nbsp;About Me
 
-🎓 &nbsp; I'm a software engineering student and freelancer.\
-📄 &nbsp;You can check my [Portfolio](https://edocode.netlify.app/).
+I'm a software engineer.
 
 ### 🛠 &nbsp;Personal Tech Stack
 

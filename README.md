@@ -2,7 +2,7 @@
 
 ### 👨🏽‍💻 &nbsp;About Me
 
-I'm a software engineer.
+I'm a passionate and pragmatic software engineer.
 
 ### 🚀 &nbsp;Projects
 <a href="https://www.projlab.io/fr/view/cm4lyh42j0000gv03hdpwovxc" style="display: flex; align-items: center;">My projects are available here !</a> &nbsp;

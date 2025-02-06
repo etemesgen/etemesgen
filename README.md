@@ -16,7 +16,7 @@ I'm a software engineer.
 ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
 ![Capacitor](https://img.shields.io/badge/-Capacitor-05122A?style=flat&logo=capacitor)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=Nuxt.js)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=Nuxt)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
@@ -26,7 +26,7 @@ I'm a software engineer.
 
 ### ⚙️ &nbsp;Tools
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-05122A.svg?logo=vsc&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;

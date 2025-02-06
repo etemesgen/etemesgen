@@ -37,5 +37,5 @@ I'm a software engineer.
 
 ### 📫 &nbsp;Reach me:
 
-<a href="https://www.linkedin.com/in/edomiyas-temesgen-16ba01173/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto: temesgen.edomiyas@yahoo.com"><img alt="yahoo" src="https://img.shields.io/badge/yahoo%20-6001D2.svg?&style=flat&logo=yahoo&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/edomiyas-temesgen-16ba01173/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a> &nbsp;
+<a href="mailto: edlabpro@gmail.com"><img alt="yahoo" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>

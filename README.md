@@ -20,8 +20,9 @@ I'm a passionate and pragmatic software engineer.
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![PostrgeSQL](https://img.shields.io/badge/-postgresql-05122A?style=flat&logo=postgresql)&nbsp;
-![Firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
+![PostrgeSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 ### ⚙️ &nbsp;Tools

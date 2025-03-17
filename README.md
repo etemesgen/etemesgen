@@ -17,6 +17,7 @@ I'm a passionate and pragmatic software engineer.
 ![Capacitor](https://img.shields.io/badge/-Capacitor-05122A?style=flat&logo=capacitor)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=Nuxt)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=TailwindCss)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
